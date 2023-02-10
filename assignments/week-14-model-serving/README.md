@@ -462,6 +462,7 @@ At the end of this session, you will be able to:
    ```json
    {"comments": "This is awesome !"}
    ```
+   Comments is supposed to be an array of possible strings, not a single string.
 
 4. Fetch, tail, and filter Lambda function logs.
 
